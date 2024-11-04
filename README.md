@@ -1,5 +1,4 @@
-_I no longer use this clockface, so I won't be doing much maintenance on it
-going forward. Please feel free to fork it and modify however you like though!_
+New Fork from original: https://github.com/noahp/fbapp-TimeDateWeather
 
 ---
 
