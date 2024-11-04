@@ -156,7 +156,7 @@ function prv_owm_condition_to_forecast(condition) {
 function prv_queryOWMWeather(apiKey, latitude, longitude, success, error) {
   // fetch forecast. see example resonse in owm-one-api-example.json
   var url =
-    "https://api.openweathermap.org/data/2.5/onecall?appid=" +
+    "https://api.openweathermap.org/data/3.0/onecall?appid=" +
     apiKey +
     "&lat=" +
     latitude +
