@@ -1,13 +1,13 @@
 {
   "repository": {
     "type": "git",
-    "url": "git://github.com/noahp/fbapp-TimeDateWeather.git"
+    "url": "git://github.com/Saxman255/fbapp-TimeDateWeather.git"
   },
   "license": "SEE LICENSE IN LICENSE",
   "fitbit": {
     "appUUID": "70f88a0b-d4b4-46fb-a657-6339cc426fb0",
     "appType": "clockface",
-    "appDisplayName": "Time/Date/Weather",
+    "appDisplayName": "Time/Date/Weather 2",
     "iconFile": "resources/icon.png",
     "wipeColor": "",
     "requestedPermissions": [
@@ -23,7 +23,7 @@
     ],
     "i18n": {
       "en": {
-        "name": "Time/Date/Weather"
+        "name": "Time/Date/Weather 2"
       }
     }
   },
