@@ -5,7 +5,7 @@
   },
   "license": "SEE LICENSE IN LICENSE",
   "fitbit": {
-    "appUUID": "9441c0d4-3370-4295-9df7-c4e1edad8ade",
+    "appUUID": "70f88a0b-d4b4-46fb-a657-6339cc426fb0",
     "appType": "clockface",
     "appDisplayName": "Time/Date/Weather",
     "iconFile": "resources/icon.png",
